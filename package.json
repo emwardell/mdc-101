@@ -17,5 +17,15 @@
     "sass-loader": "^6.0.4",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.4.3"
+  },
+  "dependencies": {
+    "@material/button": "^0.41.0",
+    "@material/drawer": "^0.41.0",
+    "@material/elevation": "^0.41.0",
+    "@material/image-list": "^0.41.0",
+    "@material/list": "^0.41.0",
+    "@material/ripple": "^0.41.0",
+    "@material/textfield": "^0.41.0",
+    "@material/typography": "^0.41.0"
   }
 }
